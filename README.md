@@ -8,3 +8,10 @@
 > YouTube channel: [Code With Nomi](https://www.youtube.com/@codewithnomi)
 >
 > Video tutorial: [Build Movie App Using React Native | React Native Projects | Beginners](https://www.youtube.com/watch?v=Q1xQuCpYIFE&list=PLKWMD009Q4qSHIMF6Swy4VQs5z6U97LJm)
+
+
+### Dependencies
+
+- [@react-navigation/native](https://reactnavigation.org/docs/getting-started/)
+
+- [@react-navigation/native-stack](https://reactnavigation.org/docs/native-stack-navigator/)
