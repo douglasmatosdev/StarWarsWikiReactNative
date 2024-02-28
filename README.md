@@ -1,17 +1,10 @@
-# Movie App
+# Star Wars Wiki
 
 ## A simple Mobile application with React Native with Expo
 
 > ### Note
 > Application built from a tutorial on YouTube.
 >
-> YouTube channel: [Code With Nomi](https://www.youtube.com/@codewithnomi)
+> YouTube channel: [Gabriel Rangel - Fala, Coders!](https://www.youtube.com/@FalaCoders)
 >
-> Video tutorial: [Build Movie App Using React Native | React Native Projects | Beginners](https://www.youtube.com/watch?v=Q1xQuCpYIFE&list=PLKWMD009Q4qSHIMF6Swy4VQs5z6U97LJm)
-
-
-### Dependencies
-
-- [@react-navigation/native](https://reactnavigation.org/docs/getting-started/)
-
-- [@react-navigation/native-stack](https://reactnavigation.org/docs/native-stack-navigator/)
+> Video tutorial: [Aula 1 | Programando um Aplicativo em React Native do Zero (Wiki com Expo)](https://www.youtube.com/watch?v=a2e2lXC5EGM&list=PL4zG19BCs4pdPJzElbUxCykHTClU-B0Ts)
